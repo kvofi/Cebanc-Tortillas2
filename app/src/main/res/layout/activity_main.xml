@@ -21,7 +21,7 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true"
         android:id="@+id/editText"
-        android:hint="Nombre" />
+        android:hint="@string/nombre" />
 
     <EditText
         android:layout_width="match_parent"
@@ -29,7 +29,7 @@
         android:inputType="textPersonName"
         android:ems="10"
         android:id="@+id/editText2"
-        android:hint="Direccion" />
+        android:hint="@string/direccion" />
 
     <EditText
         android:layout_width="match_parent"
@@ -37,7 +37,7 @@
         android:inputType="phone"
         android:ems="10"
         android:id="@+id/editText3"
-        android:hint="Telefono" />
+        android:hint="@string/telefono" />
 
     <ImageView
         android:layout_width="match_parent"
@@ -52,7 +52,7 @@
         android:layout_height="91dp">
 
         <Button
-            android:text="SALIR"
+            android:text="@string/exit"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/button2"
@@ -60,7 +60,7 @@
             style="@style/Widget.AppCompat.Button.Borderless.Colored" />
 
         <Button
-            android:text="SIGUIENTE"
+            android:text="@string/siguiente"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/button3"

@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Cebanc-Tortillass</string>
+    <string name="app_name">Cebanc-Tortillas</string>
+    <string name="siguiente">SIGUIENTE</string>
+    <string name="exit">SALIR</string>
+    <string name="nombre">nombre</string>
+    <string name="direccion">direccion</string>
+    <string name="telefono">telefono</string>
 </resources>
