@@ -2,7 +2,7 @@
     <string name="app_name">Cebanc-Tortillas</string>
     <string name="siguiente">SIGUIENTE</string>
     <string name="exit">SALIR</string>
-    <string name="nombre">nombre</string>
-    <string name="direccion">direccion</string>
-    <string name="telefono">telefono</string>
+    <string name="nombre">Nombre</string>
+    <string name="direccion">Direccion</string>
+    <string name="telefono">Telefono</string>
 </resources>
