@@ -54,7 +54,7 @@
         <Button
             android:text="@string/exit"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
             android:id="@+id/button2"
             android:textColor="@android:color/holo_red_dark"
             android:layout_weight="0.36"
@@ -63,7 +63,7 @@
         <Button
             android:text="@string/siguiente"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="96dp"
             android:id="@+id/button3"
             android:textColor="@android:color/holo_purple"
             android:layout_weight="0.36"
