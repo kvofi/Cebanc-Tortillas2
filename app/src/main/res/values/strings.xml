@@ -5,4 +5,15 @@
     <string name="nombre">Nombre</string>
     <string name="direccion">Direccion</string>
     <string name="telefono">Telefono</string>
+    <string name="Finicio">Eliga la tortilla</string>
+    <string name="familiar">Familiar</string>
+    <string name="individual">Individual</string>
+    <string name="tamano">Tamaño:</string>
+    <string name="cant">Cantidad</string>
+    <string name="total">Total tortilla:</string>
+    <string name="tipoh">Tipo de huevo:</string>
+    <string name="campero">Campero</string>
+    <string name="ecologico">Ecologico</string>
+    <string name="granja">Granja</string>
+
 </resources>
